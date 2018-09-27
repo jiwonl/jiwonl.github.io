@@ -1,5 +1,5 @@
-# jiwonl.github.io
-## Python, Java, Ruby
+# JIWON's tech blog
+## Web development and NLP learning
 
 * Data Structure
 * Algorithm
