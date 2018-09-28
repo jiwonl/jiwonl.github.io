@@ -28,7 +28,7 @@
 * 
 * 
 
-## Python   [[more]](Python.md)
+## Python   [[more]](Python/Python.md)
 * Introduction
 * Object, Variable, Data Type
 * Data Type 1. Numeric
