@@ -3,11 +3,11 @@
 
 
 ## Contents
-1. Data Structure in C
-2. Algorithm
-3. [Python](#Python)
+- Data Structure in C
+- Algorithm
+- [Python](#Python)
 
-### 1. [Data Structure in C](DS/Data-Structure.md)
+## [Data Structure in C](DS/Data-Structure.md)
 * Basic Concepts
 * Array and Structures
 * Stacks and Queues
@@ -20,10 +20,10 @@
 * Multiway Search Trees
 * Digital Search Structures
 
+##### [Contents](#Contents)
 
 
-
-### 2. [Algorithm](Algo/Algorithm.md)
+## [Algorithm](Algo/Algorithm.md)
 * Divide and Conquer
   * merge sort
   * fibonacci
@@ -31,8 +31,10 @@
 * 
 * 
 
+##### [Contents](#Contents)
+
 ## Python
-### 3. [Python](Python/Python.md)
+## [Python](Python/Python.md)
 * Introduction
 * Object, Variable, Data Type
 * Data Type 1. Numeric
@@ -51,3 +53,5 @@
 * Object-Oriented Programming
 * Toy Project
 * Homework
+
+##### [Contents](#Contents)
