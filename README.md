@@ -31,7 +31,7 @@
 * 
 * 
 
-#Python
+# Python
 ### 3. [Python](Python/Python.md)
 * Introduction
 * Object, Variable, Data Type
