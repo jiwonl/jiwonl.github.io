@@ -7,8 +7,7 @@
 - [Algorithm](#algorithm)
 - [Python](#python)
 
-## Data Structure in C   [more](DS/Data-Structure.md)
-[more](DS/Data-Structure.md)
+## Data Structure in C   [[more]](DS/Data-Structure.md)
 * Basic Concepts
 * Array and Structures
 * Stacks and Queues
@@ -21,8 +20,7 @@
 * Multiway Search Trees
 * Digital Search Structures
 
-## Algorithm
-[more](Algo/Algorithm.md)
+## Algorithm   [[more]](Algo/Algorithm.md)
 * Divide and Conquer
   * merge sort
   * fibonacci
@@ -30,8 +28,7 @@
 * 
 * 
 
-## Python
-[more](Python/Python.md)
+## Python   [[more]](Python/Python.md)
 * Introduction
 * Object, Variable, Data Type
 * Data Type 1. Numeric
