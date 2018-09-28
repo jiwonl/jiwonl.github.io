@@ -11,7 +11,6 @@
 
 
 ## Data Structure
-(#Data-Structure)
 * array
 * list
 * stack
@@ -28,7 +27,6 @@
 
 
 ## Algorithm
-(#Algorithm)
 * Divide and Conquer
   * merge sort
   * fibonacci
@@ -37,5 +35,4 @@
 * 
 
 ## Cost Function
-(#Cost-Function)
 * Asymptotic notation(Big-O, Omega, Theta)
