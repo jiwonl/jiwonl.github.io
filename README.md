@@ -3,7 +3,7 @@
 
 
 ## Contents
-- [Data Structure in C](#data-structure-in-C)
+- [Data Structure in C](#data-structure-in-c)
 - [Algorithm](#algorithm)
 - [Python](#python)
 
