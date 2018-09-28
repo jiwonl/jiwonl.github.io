@@ -3,6 +3,9 @@
 
 
 ## Contents
+1. Data Structure in C
+2. Algorithm
+3. [Python](#Python)
 
 ### 1. [Data Structure in C](DS/Data-Structure.md)
 * Basic Concepts
@@ -28,6 +31,7 @@
 * 
 * 
 
+#Python
 ### 3. [Python](Python/Python.md)
 * Introduction
 * Object, Variable, Data Type
