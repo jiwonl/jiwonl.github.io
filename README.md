@@ -3,30 +3,24 @@
 
 
 ## Contents
-* [Data Structure](#Data-Structure)
-* [Algorithm](#Algorithm)
-* [Cost Function](#Cost-Function)
+
+### 1. [Data Structure in C](DS/Data-Structure.md)
+* Basic Concepts
+* Array and Structures
+* Stacks and Queues
+* Linked List
+* Graphs
+* Sorting
+* Hashing
+* Priority Queues
+* Efficient Binary Search Trees
+* Multiway Search Trees
+* Digital Search Structures
 
 
 
 
-## [Data Structure](Data-Structure.md)
-* array
-* list
-* stack
-* queue
-* linkedlist
-* heap
-*
-*
-*
-*
-*
-
-
-
-
-## Algorithm
+### 2. [Algorithm](Algo/Algorithm.md)
 * Divide and Conquer
   * merge sort
   * fibonacci
@@ -34,5 +28,22 @@
 * 
 * 
 
-## Cost Function
-* Asymptotic notation(Big-O, Omega, Theta)
+### 3. [Python](Python/Python.md)
+* Introduction
+* Object, Variable, Data Type
+* Data Type 1. Numeric
+* Data Type 2. String
+* Input / Output
+* Conditions
+* While / For Loop
+* Data Type 3. List
+* Data Type 4. Tuple
+* Data Type 5. Set
+* Data Type 6. Dictionary
+* Function
+* File Input / Output
+* Module
+* Error and Exception Handling
+* Object-Oriented Programming
+* Toy Project
+* Homework
