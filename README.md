@@ -8,6 +8,7 @@
 - [Python](#python)
 
 ## Data Structure in C
+[more](DS/Data-Structure.md)
 * Basic Concepts
 * Array and Structures
 * Stacks and Queues
@@ -19,20 +20,18 @@
 * Efficient Binary Search Trees
 * Multiway Search Trees
 * Digital Search Structures
-   [more](DS/Data-Structure.md)
-
 
 ## Algorithm
+[more](Algo/Algorithm.md)
 * Divide and Conquer
   * merge sort
   * fibonacci
 * Greedy
 * 
 * 
-##### [more](Algo/Algorithm.md)
-
 
 ## Python
+[more](Python/Python.md)
 * Introduction
 * Object, Variable, Data Type
 * Data Type 1. Numeric
@@ -51,7 +50,6 @@
 * Object-Oriented Programming
 * Toy Project
 * Homework
-##### [more](Python/Python.md)
 
 
 ##### [top](#contents)
