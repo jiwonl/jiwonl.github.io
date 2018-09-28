@@ -19,7 +19,7 @@
 * Efficient Binary Search Trees
 * Multiway Search Trees
 * Digital Search Structures
-*  [more](DS/Data-Structure.md)
+   [more](DS/Data-Structure.md)
 
 
 ## Algorithm
