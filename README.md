@@ -10,7 +10,7 @@
 
 
 
-## [Data Structure] (docs/Data-Structure.md)
+## [Data Structure](Data-Structure.md)
 * array
 * list
 * stack
