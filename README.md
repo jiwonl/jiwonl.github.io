@@ -8,7 +8,9 @@
 * [Cost Function](#Cost-Function)
 
 
-## Data-Structure
+
+
+## Data Structure
 * array
 * list
 * stack
@@ -21,6 +23,9 @@
 *
 *
 
+
+
+
 ## Algorithm
 * Divide and Conquer
   * merge sort
@@ -29,5 +34,5 @@
 * 
 * 
 
-## Cost-Function
+## Cost Function
 * Asymptotic notation(Big-O, Omega, Theta)
