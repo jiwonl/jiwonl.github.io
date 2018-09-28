@@ -21,7 +21,8 @@
 * Multiway Search Trees
 * Digital Search Structures
 
-##### [contents](#contents){: .text-right }
+##### [contents](#contents)
+{: .text-right }
 
 
 ## Algorithm
