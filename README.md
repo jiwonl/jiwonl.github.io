@@ -29,5 +29,5 @@ Algorithm
 * 
 * 
 
-(#Cost-Function)Cost Function
+(#Cost-Function) Cost Function
 * Asymptotic notation(Big-O, Omega, Theta)
