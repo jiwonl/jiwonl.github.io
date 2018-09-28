@@ -7,7 +7,7 @@
 - [Algorithm](#algorithm)
 - [Python](#python)
 
-## Data Structure in C
+## Data Structure in C   [more](DS/Data-Structure.md)
 [more](DS/Data-Structure.md)
 * Basic Concepts
 * Array and Structures
