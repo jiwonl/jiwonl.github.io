@@ -8,16 +8,26 @@
 * [Cost Function](#Cost-Function)
 
 
-## [Data Structure](#Data-Structure)
+#Data-Structure
 * array
 * list
 * stack
 * queue
 * linkedlist
 * heap
+*
+*
+*
+*
+*
 
-## [Algorithm](#Algorithm)
+#Algorithm
 * Divide and Conquer
+  * merge sort
+  * fibonacci
+* Greedy
+* 
+* 
 
-## [Cost Function](#Cost-Function)
+#Cost-Function
 * Asymptotic notation(Big-O, Omega, Theta)
