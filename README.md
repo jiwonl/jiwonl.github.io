@@ -8,7 +8,7 @@
 * [Cost Function](#Cost-Function)
 
 
-## Data Structure (#Data-Structure)
+## [Data Structure](#Data-Structure)
 * array
 * list
 * stack
@@ -16,8 +16,8 @@
 * linkedlist
 * heap
 
-## Algorithm (#Algorithm)
+## [Algorithm](#Algorithm)
 * Divide and Conquer
 
-## Cost Function (#Cost-Function)
+## [Cost Function](#Cost-Function)
 * Asymptotic notation(Big-O, Omega, Theta)
