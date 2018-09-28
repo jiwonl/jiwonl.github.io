@@ -21,9 +21,6 @@
 * Multiway Search Trees
 * Digital Search Structures
 
-##### [contents](#contents)
-{: .text-right }
-
 
 ## Algorithm
 ##### [more](Algo/Algorithm.md)
@@ -34,7 +31,6 @@
 * 
 * 
 
-##### [contents](#contents)
 
 ## Python
 ##### [more](Python/Python.md)
@@ -57,4 +53,4 @@
 * Toy Project
 * Homework
 
-##### [contents](#contents)
+##### [top](#contents)
